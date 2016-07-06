@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1396696031 source:c:\users\hermann\skydrive\c\calculator\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1396603407 source:c:\users\hermann\skydrive\c\pythagoras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
