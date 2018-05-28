@@ -1,4 +1,6 @@
-# CLI Calculator [![pipeline status](https://gitlab.namibsun.net/namboy94/c-calculator/badges/master/pipeline.svg)](https://gitlab.namibsun.net/namboy94/c-calculator/commits/master)
+# CLI Calculator
+
+[![pipeline status](https://gitlab.namibsun.net/namibsun/museum/c-calculator/badges/master/pipeline.svg)](https://gitlab.namibsun.net/namibsun/museum/c-calculator/commits/master)
 
 ![Logo](resources/logo/logo-readme.png)
 
@@ -7,9 +9,8 @@ first programming projects and is, frankly, ugly.
 
 ## Further Information
 
-* [Changelog](https://gitlab.namibsun.net/namboy94/c-calculator/raw/master/CHANGELOG)
-* [License (GPLv3)](https://gitlab.namibsun.net/namboy94/c-calculator/raw/master/LICENSE)
-* [Gitlab](https://gitlab.namibsun.net/namboy94/c-calculator)
+* [Changelog](CHANGELOG)
+* [License](LICENSE)
+* [Gitlab](https://gitlab.namibsun.net/namibsun/museum/c-calculator)
 * [Github](https://github.com/namboy94/c-calculator)
-* [Git Statistics (gitstats)](https://gitstats.namibsun.net/gitstats/c-calculator/index.html)
-* [Git Statistics (git_stats)](https://gitstats.namibsun.net/git_stats/c-calculator/index.html)
+* [Progstats](https://progstats.namibsun.net/projects/c-calculator)
